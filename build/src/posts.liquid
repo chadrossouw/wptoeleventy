@@ -1,0 +1,29 @@
+---
+pagination:
+    data: post
+    size: 2
+permalink: "posts/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+---
+
+{% include 'head' %}
+{% include 'nav' %}
+<ul>
+    {%- for item in pagination.items %}
+    <li>{{ item.title }}</li>
+    {% endfor -%}
+</ul>
+<nav aria-labelledby="pagination-title">
+  <h2 id="pagination-title" class='screen-reader-text'>Navigate through pages</h2>
+  <ul>
+    {% if pagination.pageNumber > 0 %}
+        <li><a href="{{ pagination.href.first }}">First Page</a></li>
+    {% endif %}
+    {% if pagination.pageNumber > 1 %}
+        <li><a href="{{ pagination.href.previous }}" >Previous</a></li>
+    {% endif %}
+    {% if pagination.href.next %}
+        <li><a href="{{ pagination.href.next }}" >Next</a></li>
+    {% endif %}
+  </ul>
+</nav>
+{% include 'foot' %}

@@ -1,0 +1,15 @@
+/web
+/web_tmp
+node_modules
+/cms/wp-admin/
+/cms/wp-includes/
+/cms/*.php
+/cms/*.html
+/cms/wp-content/uploads/
+/cms/wp-content/upgrade/
+/cms/wp-content/themes/*
+!/cms/wp-content/themes/twentytwenty
+/cms/wp-content/plugins/*
+!/cms/wp-content/plugins/disable-frontend
+!/cms/wp-content/plugins/wp-to-11ty
+

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Home",
+    "content": "\n<p>This is the home page</p>\n",
+    "date": "2022-12-08 03:45:14",
+    "slug": "home",
+    "type": "static_page",
+    "showInNav": ""
+  },
+  {
+    "title": "This is another fpage",
+    "content": "\n<p>With content</p>\n",
+    "date": "2022-12-08 18:36:20",
+    "slug": "this-is-another-page",
+    "type": "static_page",
+    "showInNav": ""
+  }
+]

@@ -1,0 +1,13 @@
+---
+pagination:
+    data: post
+    size: 1
+    alias: item
+permalink: "/post/{{item.slug | slugify}}.html"
+
+---
+
+{% include 'head' data: item.meta %}
+{% include 'nav' %}
+{% include 'content' data: item.content %}
+{% include 'foot' %}

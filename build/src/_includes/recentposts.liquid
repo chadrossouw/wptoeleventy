@@ -1,0 +1,6 @@
+{% for post in data limit: 3 %}
+  {% if counter == 0 %}
+    {% break %}
+  {% endif %}
+  {% include 'card_post' data: post %}
+{% endfor %}

@@ -1,0 +1,19 @@
+<div id="menu">
+    <div id="menu_logo"><a href="index.html"><img src="assets/images/Microsite homepage lockup_291x78px-01.png" class="menu_logo_img" alt="Alexandra Palace Logo"></a></div>
+    <button class="toggle_nav"  aria-expanded="false" aria-controls="menu_nav">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+        <span class="screen-reader-text">Toggle Menu</span>
+    </button>
+    <nav id="menu_nav">
+        <ul>
+            <li class="menu_nav_item_div"><a class="menu_nav_item_first" href="/">HOME</a></li>
+            {% for nav in static_page %}
+                {%if nav.showInNav and nav.showInNav=="true" %}
+                    <li class="menu_nav_item_div"><a class="menu_nav_item" href="{{nav.slug}}.html">{{nav.name | upcase}}</a></li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </nav>
+</div>

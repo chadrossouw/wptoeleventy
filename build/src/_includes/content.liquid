@@ -1,0 +1,40 @@
+<div id="content" 
+    {% if data.home %}style="position:inherit;padding-top: 80px;padding-bottom: 0px;background-color:#1f1546;margin-top:0;"{% endif %}
+>
+    {% if data.enableBack %}
+        <div id="back"><button >← Go Back</button></div>
+    {% endif %}
+    {% if data.name %}
+        <h1>{{data.name | upcase }}</h1>
+    {% endif %}
+        <div class="centeredparagraph" style="max-width:780px;min-height:20px;">
+            {{ data.centeredParagraph}}
+        </div>
+    {% if data.featuredimages %}
+        <div class="featured_images">
+            {% for image in data.featuredimages %}
+                <picture class="featured_image">
+                    <source srcset="assets/images/build/{{image}}.webp" type="image/webp">
+                    <source srcset="assets/images/{{image}}.jpg" type="image/jpeg"> 
+                    <img src="assets/images/{{image}}.jpg">
+                </picture>
+            {% endfor %}
+        </div>
+    {% endif %}
+    {% if data.columns %}
+    <div id="columns" style="padding-top:0px;margin-top:-20px;">
+        <div id="leftcol">
+            {{data.columns.leftCol}}
+        </div>
+        <div id="rightcol">
+            {{data.columns.rightCol}}
+        </div>
+    </div>
+    {% endif %}
+
+    {% if data.map %}
+        <div class="map-holder">
+            <picture class=inline_img><source srcset=assets/images/build/{{data.map}}.webp type=image/webp><source srcset=assets/images/{{data.map}}.jpg type=image/jpg><img src=assets/images/{{data.map}}.jpg alt=\"Transport Map to Alexandra Palace\"></picture>
+        </div> 
+    {% endif %}
+</div>

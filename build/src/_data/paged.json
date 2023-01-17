@@ -1,0 +1,573 @@
+[
+    {
+        "name":"What's on",
+        "slug":"whatson",
+        "showInNav":true,
+        "meta":{
+            "title":"What's On at Alexandra Palace | 5th November 2022",
+            "meta":"Discover what's on at Ally Pally's amazing fireworks festival as it returns for another superb bonfire night, lighting up the London skyline and exciting children of all ages."
+        },
+        "content":{
+            "name":"What's On",
+            "featuredimages":["settimes"]
+        },
+        "imageLinks":{
+            "links":[
+                {
+                    "name":"Bonfire Sing-Song",
+                    "url":"/bonfire-sing-song.html",
+                    "bg":"bonfiresingsong"
+                },
+                {
+                    "name":"Ibiza Anthems laser Party",
+                    "url":"/ibiza-anthems.html",
+                    "bg":"R6LW8093Fireworks-LloydWinters-061121-WEB"
+                },
+                {
+                    "name":"Display & Laser Show",
+                    "url":"/display.html",
+                    "bg":"R6LW8538Fireworks-LloydWinters-061121-WEB"
+                },
+                {
+                    "name":"German Bier Festival",
+                    "url":"/bierfestival.html",
+                    "bg":"AN2I8067Fireworks-LloydWinters-061121-WEB"
+                },
+                {
+                    "name":"Bonfire",
+                    "url":"/bonfire.html",
+                    "bg":"AU5Y7359Fireworks-LloydWinters-061121-WEB"
+                },
+                {
+                    "name":"Cinema",
+                    "url":"/cinema.html",
+                    "bg":"shaunofthedead1"
+                },
+                {
+                    "name":"Fire Show",
+                    "url":"/fireshow.html",
+                    "bg":"AN2I7929Fireworks-LloydWinters-061121-WEB"
+                },
+                {
+                    "name":"Family Area",
+                    "url":"/familyarea.html",
+                    "bg":"AU5Y6886Fireworks-LloydWinters-061121"
+                },
+                {
+                    "name":"STREATLIFE VILLAGE ft. GOK WAN",
+                    "url":"/gokwan.html",
+                    "bg":"GOK1"
+                },
+                {
+                    "name":"One Night of Elvis",
+                    "url":"/elvis.html",
+                    "bg":"Elvis1"
+                },
+                {
+                    "name":"Ice Skating",
+                    "url":"/iceskating.html",
+                    "bg":"tile_iceskating"
+                }
+            ]
+        },
+        "ticketsRow":{
+            "status":"",
+            "link":"https://youtu.be/_rQLdwEhmrQ",
+            "title":"Watch 2022 Film"
+        }
+    },
+    {
+        "name":"Display and Laser Show",
+        "slug":"display", 
+        "meta":{
+            "title":"Fireworks Display at Alexandra Palace | 5th November 2022",
+            "meta":"Join us for a spectacular fireworks display with a huge number of oooohhh's, aaahhh's, boom's and bang's as we light up the London skyline. This will be unforgettable."
+        },
+        "content":{
+            "name":"Display and Laser Show",
+            "enableBack":true
+        },
+        "slider":{
+            "images":[
+                "R6LW8538Fireworks-LloydWinters-061121-WEB","R6LW8093Fireworks-LloydWinters-061121-WEB","R6LW8533Fireworks-LloydWinters-061121-hires"
+            ],
+            "text":"<p>Boom! No-one does fireworks quite like Ally Pally. We’ve been letting off zingers, sending up sky rockets and spinning Catherine wheels into London’s heavens for over 150 years. Watch the capital’s skyline sizzle and whizzle from the most spectacular vantage point imaginable, sound-tracked by a specially curated playlist, and bring a pocketful of OOOHHHs and AAAHHHs.</p><h2>DISPLAY TIME</h2><p>8pm</p>",
+            "button":{
+                "status":"",
+                "link":"https://www.youtube.com/watch?v=_rQLdwEhmrQ",
+                "title":"Watch 2022 Film"
+            }
+        }
+    },
+    {
+        "name":"German Bier Festival",
+        "slug":"bierfestival",
+        "meta":{
+            "title":"German Bier Festival at Alexandra Palace | 5th November 2022",
+            "meta":"Bonkers, Bavarian and brimming with tasty authentic beers, our German bier keller is an awesome addition to London's best bonfire night."
+        },
+        "content":{
+            "name":"German Bier Festival",
+            "enableBack":true
+        },
+        "slider":{
+            "images":[
+                "AN2I8067Fireworks-LloydWinters-061121-WEB","AN2I8072Fireworks-LloydWinters-061121-WEB","IMGP8088","Elvis1"         
+            ],
+            "text":"<p>Make it a bonfire night to remember and add German Bier Festival tickets to your Fireworks experience as, once again, Ally Pally plays host to the UK’s largest bier festival. Don your Lederhosen and join us in the Great Hall for a night of the best beer this side of Munich, delivered straight to your table, complete with a tribute to Elvis Presley plus a superb Covers Band and London’s pop institution Club De Fromage on the decks, bringing you sing-along anthems and solid gold party bangers all through the night!</p><p>Limited tickets available (purchase in advance with your main ticket) — remember to show up in good time for a great spot! Over 18’s only.</p><p>4pm – 10:45pm</p>"
+        },
+        "popup":{
+            "videos":
+            [
+                {
+                "video":"1Jk-9iiabuc",
+                "bg":"AU5Y7384Fireworks-LloydWinters-061121-WEB"
+                }
+            ]
+        }
+    },
+    {
+        "name":"Bonfire",
+        "slug":"bonfire",
+        "meta":{
+            "title":"Giant Bonfire at Alexandra Palace | 5th November 2022",
+            "meta":"Have some fun with the family at our giant bonfire and arrive early for the best view of this spectacular fire and our legndary fireworks display."
+        },
+        "content":{
+            "name":"Bonfire",
+            "enableBack":true
+        },
+        "slider":{
+            "images":[
+                "AU5Y7359Fireworks-LloydWinters-061121-WEB","November_01_2019_AllyPallyFireworks-FamilyArea_JB_085", "fireworks-firepit"           
+            ],
+            "text":"<h2>BONFIRE</h2><p>We don’t want to blow our own trumpet but our bonfire’s bigger than your bonfire. In fact, it’s the largest for miles around. Come and join us in the lower field for the grand lighting of the bonfire to kick off the proceedings.</p>"
+        }
+    },
+    {
+        "name":"Bonfire Sing-Song",
+        "slug":"bonfire-sing-song",
+        "meta":{
+            "title":"Bonfire Sing-Song at Alexandra Palace | 5th November 2022",
+            "meta":"Gather round the bonfire after the fireworks display for a giant bonfire sing-along."
+        },
+        "content":{
+            "name":"Bonfire Sing-Song",
+            "enableBack":true
+        },
+        "slider":{
+            "images":[
+                "bonfiresingsong"           
+            ],
+            "text":"<h2>BONFIRE SING-SONG</h2><p>Gather round the bonfire straight after the fireworks display for a giant campfire sing-along, featuring amazing acoustic duo Sound Central. They’ll be belting out all the best sing-along classics to warm the soul, while the embers of the bonfire keep you toasty. Grab a mulled wine and your singing voices, and let’s get jammin’!</p>"
+        }
+    },
+    {
+        "name":"Ibiza Anthems Laser Party",
+        "slug":"ibiza-anthems",
+        "meta":{
+            "title":"Ibiza Anthems Laser Party at Alexandra Palace | 5th November 2022",
+            "meta":"A special 45-minute party mix of the biggest tunes from the White Isle"
+        },
+        "content":{
+            "name":"Ibiza Anthems Laser Party",
+            "enableBack":true
+        },
+        "slider":{
+            "images":[
+                "R6LW8093Fireworks-LloydWinters-061121-WEB"           
+            ],
+            "text":"<h2>IBIZA ANTHEMS LASER PARTY</h2><p>Stick around on the South Slope after the fireworks display as we rewind some classic Ibiza anthems live, loud and all set to an epic laser show! We’ll be pulling out all the bangers, from the 90s to now, in a special 45-minute party mix of the biggest tunes from the White Isle. It may well be autumn, but let’s get dancing like it’s Summer ‘99!</p>"
+        }
+    },
+    {       
+        "name":"Ice skating",
+        "slug":"iceskating",
+        "meta":{
+            "title":"Bonfire Night Ice Skating at Alexandra Palace | 5th November 2022",
+            "meta":"Take to the ice with friends and family for some amazing fun, or join us for a special Ice Disco after our amazing Fireworks Display. Book now to avoid disappointment."
+        },
+        "content":{
+            "name":"Ice skating",
+            "enableBack":true
+        },
+        "slider":{
+            "images":[
+                "tile_iceskating",
+                "tile_iceskating3",
+                "tile_iceskating4",
+                "8J9A5590LloydWinters-2019-fireworks-Icerink",
+                "8J9A5667LloydWinters-2019-fireworks-Icerink"
+            ],
+            "text":"<h2>TAKE TO THE ICE</h2><p>The Ally Pally Ice Rink will be open throughout the Festival. Glide your way around the Ice Rink at one of our winter skate sessions or come and have a boogie at our ice disco, skating to a soundtrack of lively and fun music. Singing is optional!</p><p>Additional add-on ticket required. Limited availability, purchase your add-ons when booking your fireworks tickets.</p>"
+        }
+    },
+    {       
+        "name":"Fire show",
+        "slug":"fireshow",
+        "meta":{
+            "title":"Giant Bonfire at Alexandra Palace | 5th November 2022",
+            "meta":"Take to the ice with friends and family for some amazing fun, or join us for a special Ice Disco after our amazing Fireworks Display. Book now to avoid disappointment."
+        },
+        "content":{
+            "name":"Fire show",
+            "enableBack":true
+        },
+        "slider":{
+            "images":[
+                "AN2I7367Fireworks-LloydWinters-061121-WEB",
+                "AN2I7929Fireworks-LloydWinters-061121-WEB",
+                "AN2I7714Fireworks-LloydWinters-061121-WEB"
+            ],
+            "text":"<h2>FIRE SHOW</h2><p>Tottenham based Chivaree Circus are a high-impact performance company bringing an exceptional cast of fire, light and pyro artistes to amaze and delight. Festival goers can gather for an in-the-round display, eye-catching LED hoop artists, daring fire fans and sensational costumes that are literally alight! Featuring a pyrotechnic finale, they’ll be performing at various times in the Family Area before the main display, don’t miss out!</p>"
+        }
+    },
+    {       
+        "name":"Cinema",
+        "slug":"cinema",
+        "meta":{
+            "title":"Cinema Screenings at Alexandra Palace | 5th November 2022",
+            "meta":"Cosy up in our beautiful Victorian theatre and enjoy movie classics like LEGO Movie and Shaun of the Dead."
+        },
+        "content":{
+            "name":"Cinema",
+            "enableBack":true
+        },
+        "slider":{
+            "images":[
+                "shaunofthedead1",
+                "legomovie1",
+                "8J9A8741-HDRGreatFete-2019",
+                "tile_cinemafriday1",
+                "tile_cinemafriday2"
+            ],
+            "text":"<p>New to this year we invite you to cosy up in our beautiful Victorian cinema. For the little ones (and not so little ones), you can look forward to the LEGO movie in the afternoon, before things get ooky spooky AND funny with Shaun of the Dead in the evening. We're coming to get you, Barbara!</p><p>The Lego Movie film starts 5.45pm <br>Shaun of the Dead film starts 9pm</p>"
+        }
+    },
+    {       
+        "name":"Family Area",
+        "showInNav":true,
+        "slug":"familyarea",
+        "meta":{
+            "title":"Family Area at Alexandra Palace | 5th November 2022",
+            "meta":"The family area returns to this year’s Fireworks Festival with oodles of space to host a funfair, the bonfire and a thrilling fire show."
+        },
+        "content":{
+            "name":"Family Area",
+            "enableBack":true,
+            "centeredParagraph":"<p>The family area returns to this year’s Fireworks Festival with oodles of space more than previous years to host a funfair, bars, the bonfire and a thrilling fire show.</p><p>Take a nostalgic ride on the dodgems and waltzers or for the less daring visitors, there’s always the trusty tea cups. Keep warm in the chilly November air and join us in a special ceremony to light the bonfire. Fire performers will bring theatrics to the ceremony in what promises to be one of the highlights of the festival.</p>"
+        },
+        "imageLinks":{
+            "links":[
+                {
+                    "name":"Bonfire",
+                    "url":"/bonfire.html",
+                    "bg":"AU5Y7359Fireworks-LloydWinters-061121-WEB"
+                },
+                {
+                    "name":"Funfair",
+                    "url":"/funfair.html",
+                    "bg":"AN2I6967Fireworks-LloydWinters-061121-WEB"
+                },
+                {
+                    "name":"Cinema",
+                    "url":"/cinema.html",
+                    "bg":"legomovie1"
+                },
+                {
+                    "name":"Fire Show",
+                    "url":"/fireshow.html",
+                    "bg":"AN2I7929Fireworks-LloydWinters-061121-WEB"
+                },
+                {
+                    "name":"Family Food & Drink",
+                    "url":"/familyfood.html",
+                    "bg":"tile_familyfood"
+                }
+                
+                
+            ]
+        }
+    },
+    {       
+        "name":"Family Area Food & Drink",
+        "slug":"familyfood",
+        "meta":{
+            "title":"Family Food & Drink at Alexandra Palace Fireworks Festival | 5th November 2022",
+            "meta":"Kids of all ages love our food & drink area, amazing food in adult & kids portions, treats to tickle the taste buds - there is something for everyone this bonfire night."
+        },
+        "content":{
+            "name":"Family Area Food & Drink",
+            "enableBack":true
+        },
+        "slider":{
+            "images":[
+                "C04B3682fireworks-2018-lloydwinters-high_2",
+                "tile_familyfood",
+                "tile_familyfood2",
+                "8J9A5697LloydWinters-2019-fireworks-Icerink",
+                "8J9A5701LloydWinters-2019-fireworks-Icerink",
+                "8J9A5711LloydWinters-2019-fireworks-Streetfood",
+                "8J9A5798LloydWinters-2019-fireworks-Streetfood",
+                "8J9A5987LloydWinters-2019-fireworks-Streetfood",
+                "8J9A6054LloydWinters-2019-fireworks-Streetfood",
+                "AllyPallyFiireworks_GrahamJoyPhotography-1539"
+            ],
+            "text":"<p>Head to the family area to find food and drink options to please big and little kids alike. More than ever before, our specially selected traders will be serving up a variety of tasty treats. With options on kid friendly portions, there’s sure to be something to please the whole family.</p><p>Find out more about the family area <a href=\"familyarea.html\">here</a>.</p>"
+        }
+    },
+    {       
+        "name":"Funfair",
+        "slug":"funfair",
+        "meta":{
+            "title":"Family Funfair & Fireworks Festival at Alexandra Palace | 5th November 2022",
+            "meta":"Fun for all the family with a great selection of rides and entertainment, whether you're a kid or  big kid there's lots of fun to be had at the Funfair!"
+        },
+        "content":{
+            "name":"Funfair",
+            "enableBack":true
+        },
+        "slider":{
+            "images":[
+                "AN2I6967Fireworks-LloydWinters-061121-WEB",
+                "R6LW7830Fireworks-LloydWinters-061121-WEB",
+                "AU5Y6886Fireworks-LloydWinters-061121"
+            ],
+            "text":"<p>Roll up, roll up for fun at the fair with a family-friendly selection of rides in the park’s lower field.</p>"
+        }
+    },
+    {       
+        "name":"Food & Drink",
+        "slug":"foodanddrink",
+        "showInNav":true,
+        "meta":{
+            "title":"Food & Drink at Alexandra Palace | 5th November 2022",
+            "meta":"Take a look at all the amazing food and drink we have to offer at our legendary fireworks display at Alexandra Palace this November."
+        },
+        "content":{
+            "name":"Food & Drink"
+        },
+        "imageLinks":{
+            "links":[
+                {
+                    "name":"StrEATlife Food & Craft Beer",
+                    "url":"/streatlife.html",
+                    "bg":"AU5Y4260fireworks-2018-lloydwinters-high"
+                },
+                {
+                    "name":"Family Area",
+                    "url":"/familyfood.html",
+                    "bg":"tile_familyarea4"
+                }
+            ],
+            "bigtiles":[
+                {
+                    "name":"Other Bars & Food",
+                    "url":"/otherbars.html",
+                    "bg":"tile_otherbars"
+                }
+            ]
+        }
+    },
+    {       
+        "name":"StrEATlife Food & Drink",
+        "slug":"streatlife",
+        "meta":{
+            "title":"StrEATlife Food and Drink at Alexandra Palace | 5th November 2022",
+            "meta":"Over 30 of London's top street food vendors, craft beer suppliers, mulled wine and cocktail lovers all in one area - what's not to love?"
+        },
+        "content":{
+            "name":"StrEATlife Food & Drink",
+            "enableBack":true
+        },
+        "slider":{
+            "images":[
+                "AU5Y4260fireworks-2018-lloydwinters-high",
+                "C04B3682fireworks-2018-lloydwinters-high_2",
+                "tile_streetlife2",
+                "8J9A5697LloydWinters-2019-fireworks-Icerink",
+                "8J9A5701LloydWinters-2019-fireworks-Icerink",
+                "8J9A5711LloydWinters-2019-fireworks-Streetfood",
+                "8J9A5798LloydWinters-2019-fireworks-Streetfood",
+                "8J9A5987LloydWinters-2019-fireworks-Streetfood",
+                "8J9A6054LloydWinters-2019-fireworks-Streetfood",
+                "AllyPallyFiireworks_GrahamJoyPhotography-1539",
+                "November-01-2019_AllyPallyFireworks-FamilyArea_JB_134",
+                "November-01-2019_AllyPallyFireworks-FamilyArea_JB_136"
+                
+            ],
+            "text":"<p> <img src=\"assets/images/Logo_StreatLife.png\" style=\"width:250px;max-width:100%;margin-bottom:20px;\" alt=\"Streatlife\"><p>One of London’s best street food festivals is back with some of the biggest names in street food. Whether you want to warm up with a disaronno mulled wine or sample an award winning pizza, there’s something to tickle everyone’s taste buds.</p>"
+        }
+    },
+    {       
+        "name":"STREATLIFE VILLAGE ft. GOK WAN",
+        "slug":"gokwan",
+        "meta":{
+            "title":"StrEATlife Village ft. Gok Wan | 5th November 2022",
+            "meta":"Over 30 of London's top street food vendors, craft beer suppliers, mulled wine and cocktail lovers all in one area - what's not to love?"
+        },
+        "content":{
+            "name":"STREATLIFE VILLAGE ft. GOK WAN",
+            "enableBack":true
+        },
+        "slider":{
+            "images":[
+                "AU5Y4260fireworks-2018-lloydwinters-high",
+                "GOK1",
+                "AU5Y7707LloydWinters-2019-fireworks",
+                "AU5Y7769LloydWinters-2019-fireworks",
+                "AU5Y7928LloydWinters-2019-fireworks"
+                
+            ],
+            "text":"<p>The StrEATlife Village will play host to a live DJ set from renowned fashion-guru, much-loved DJ and all-round national treasure Gok Wan. Dance the night away as Gok Wan brings your favourite club classics, party-starting soul and uplifting house to the StrEAtlife tent.<br><br>Serious fun requires serious food, so at the StrEATlife Village you’ll find over 35 of London’s top street food vendors, craft beer bars, cocktails and all sorts of tasty treats to keep you dancing the night away.</p>"
+        }
+    },
+    {       
+        "name":"ONE NIGHT OF ELVIS ",
+        "slug":"elvis",
+        "meta":{
+            "title":"One Night of Elvis | 5th November 2022",
+            "meta":"Fans of the King of Rock n Roll won’t want to miss One Night of Elvis starring Lee Memphis King, Europe’s most successful Elvis Presley tribute act"
+        },
+        "content":{
+            "name":"ONE NIGHT OF ELVIS",
+            "enableBack":true
+        },
+        "slider":{
+            "images":[
+                "Elvis1"
+            ],
+            "text":"<p>Fans of the King of Rock n Roll won’t want to miss One Night of Elvis starring Lee Memphis King, Europe’s most successful Elvis Presley tribute act. Recreating the iconic ‘Vegas Years’ from 1969 – 1977, Lee Memphis King will perform many of Elvis’s legendary hit songs alongside an orchestra of world-class musicians and backing vocalists.</p><p>Please note that the One Night of Elvis show will take place inside the German Bier Festival. You will not be able to see the show without a German Bier Fest ticket. Limited tickets available (purchase in advance with your main ticket) — remember to show up in good time for a great spot!</p>"
+        }
+    },
+    {       
+        "name":"Other Bars & Food",
+        "slug":"otherbars",
+        "meta":{
+            "title":"Awesome Bars at Alexandra Palace | 5th November 2022",
+            "meta":"Alexandra Palace's Firework Festival is fully stocked with plenty of food and drink stalls, you'll never be short of a tasty snack or a mulled wine to keep you warm."
+        },
+        "content":{
+            "name":"Other Bars & Food",
+            "enableBack":true
+        },
+        "slider":{
+            "images":[
+                "tile_otherbars",
+                "tile_familyfood2",
+                "8J9A5697LloydWinters-2019-fireworks-Icerink",
+                "8J9A5701LloydWinters-2019-fireworks-Icerink",
+                "8J9A5711LloydWinters-2019-fireworks-Streetfood",
+                "8J9A5798LloydWinters-2019-fireworks-Streetfood",
+                "8J9A5987LloydWinters-2019-fireworks-Streetfood",
+                "8J9A6054LloydWinters-2019-fireworks-Streetfood",
+                "8J9A6095LloydWinters-2019-fireworks-Streetfood",
+                "November-01-2019_AllyPallyFireworks-FamilyArea_JB_134",
+                "November-01-2019_AllyPallyFireworks-FamilyArea_JB_136"
+            ],
+            "text":" <h2>THE WIDEST VARIETY</h2><p>As well as StrEATlife and the Family Area food and drink, there are plenty of other stalls and traders dotted around the entire site. Whether you’re looking for delicious meals or snacks, a drink from one of our fully stocked bars, or mulled wine, we’ve got you covered.</p>"
+        }
+    },
+    {       
+        "name":"FAQs",
+        "slug":"faqs",
+        "showInNav":true,
+        "meta":{
+            "title":"Common Questions at Alexandra Palace | 5th November 2022",
+            "meta":"Your Questions Answered - Alexandra Palace Bonfire Night Spectacular Fireworks Display, 5th November 2022."
+        },
+        "content":{
+            "name":"FAQs"
+        },
+        "faqs":true
+    },
+    {       
+        "name":"Info",
+        "slug":"info",
+        "showInNav":true,
+        "meta":{
+            "title":"What You Need To Know | Bonfire Night at Alexandra Palace | 5th November 2022",
+            "meta":"Fireworks, Alexandra Palace, London, Bonfire Night, Music, Food, Drink, StrEATlife Village & more."
+        },
+        "content":{
+            "name":"Info",
+            "featuredimages":["settimes","Firework_map_2022"]
+        },
+        "imageLinks":{
+            "links":[
+                {
+                    "name":"Travel",
+                    "url":"/travel.html",
+                    "bg":"tile_travel"
+                },
+                {
+                    "name":"FAQs",
+                    "url":"/faqs.html",
+                    "bg":"tile_faqs"
+                },
+                {
+                    "name":"Key Info",
+                    "url":"/keyinfo.html",
+                    "bg":"AU5Y4260fireworks-2018-lloydwinters-high"
+                }
+            ]
+        }
+    },
+    {       
+        "name":"Travel",
+        "slug":"travel",
+        "meta":{
+            "title":"How To Get To The Display | Ally Pally Fireworks Festival 2022",
+            "meta":"Use our handy guide to discover how best to get to Alexandra Palace for our Fireworks Festival, don't forget we advise you NOT to drive."
+        },
+        "content":{
+            "name":"Travel",
+            "centeredParagraph":"<p>With our epic fireworks display, laser show, street food village, music, DJs, bier festival, cinema screening, ice skating, massive bonfire and campfire sing along, we’re not called the ‘Glastonbury of Fireworks’ for nothing. Arrive early, stay late, but whatever you are coming to enjoy, please plan your journey to and from Alexandra Palace in advance.</p>",
+            "columns":{
+                "leftCol":"<h2>BY TRAIN</h2><p>It is a short walk to the Festival site from Alexandra Palace Train Station. While the national rail strike planned for this weekend has been called off, services are expected to be different to normal, with disruption likely.</p><p>Check services before you travel. For more information and updates visit the <a href=\"https://www.greatnorthernrail.com/\" target=\"_blank\">Great Northern Website</a></p><p>We advise arriving early, before the peak times of 7.15pm-7.45pm, as you will be more likely to avoid queues. Entry via Gate 2 – which is the closest to the train station – is particularly busy at this time.</p><h2>BY TUBE</h2><p>Wood Green on the Piccadilly Line is the nearest underground station and is 15 minutes from King’s Cross. It is a 20 minute walk from Wood Green station to Alexandra Palace.</p><p>Bounds Green, Turnpike Lane, Highgate and Finsbury Park stations also offer routes to the event, but connection times to Alexandra Palace are longer in comparison to arriving via Wood Green, so plan your route in advance. Check routes and times via <a href=\"http://www.tfl.gov.uk\" target=\"_blank\">tfl.gov.uk</a></p><h2>WALKING</h2><p>The Festival site has a large variety of entrance points, so please check our map to decide on your best route into the event.</p><p>We advise arriving early, before the peak times of 7.15pm-7.45pm, as you’ll be more likely to avoid the queues. Entry via Gate 2 will be particularly busy at this time. The Festival opens from 4pm, so get here early to experience everything that’s on offer!</p><p>For all visitors, please note that Alexandra Palace is in a residential area so please respect our neighbours when arriving and leaving. Thank you in advance for your help with this.</p>",
+                "rightCol":"<h2>BY BUS</h2><p>The W3 will be on diversion and will not be calling at Alexandra Palace. You can check alternative routes at <a href=\"http://www.tfl.gov.uk\" target=\"_blank\">tfl.gov.uk</a></p><p>For those travelling via Finsbury Park the W7 bus will be running to usual stops to the south of the Park from where you can enter the Festival site via Gate 6. The W3 is on diversion, but will stop on Priory Road which is a 10min walk to the Festival site via Gate 5. The 184 is on diversion and will not be stopping at Alexandra Palace. Please note that roads around Alexandra Palace are expected to be busier than normal.</p><h2>BY CAR</h2><p>There is <strong>no public parking available</strong> at Alexandra Palace or in surrounding streets and there will be numerous parking restrictions and road closures in place. Roads around Alexandra Palace will be busier than normal. We strongly advise against driving to the event.</p><p>There are a limited number of parking spaces in <a href=https://www.themall.co.uk/wood-green/visiting/getting-here/>Wood Green Mall</a>, which is the nearest public car park (a 20 min walk away).</p><p>Access parking is available, though strictly limited. Allocated parking tickets are available when purchasing your access ticket. You will need to bring both tickets and your Blue Badge when reporting to the designated parking area shown on your ticket. Please note due to crowd congestion the car park will be closed between 6pm and 8.45pm on both days.</p><p>For your satnav, the postcode is N10 3TG</p>"
+            },
+            "map":"Firework_map_2022"
+        }
+    },
+    {       
+        "name":"Set Times",
+        "slug":"set-times",
+        "meta":{
+            "title":"Set Times | Ally Pally Fireworks Festival 2022",
+            "meta":"List of all the events"
+        },
+        "content":{
+            "name":"Set Times",
+            "map":"settimes"
+        }
+    },
+    {       
+        "name":"Key Info",
+        "slug":"keyinfo",
+        "meta":{
+            "title":"Important Information at Alexandra Palace | 5th November 2022",
+            "meta":"Important information about Ally Pally's Firework Festival 2022, when it is, safety information, accessible tickets and more."
+        },
+        "content":{
+            "name":"Key Info",
+            "featuredimages":["settimes","Firework_map_2022"],
+            "columns":{
+                "leftCol":"<h2>SAFETY RULES REGULATIONS</h2><p>Please do not bring large bags to the event as this will slow your entrance time considerably.</p><p>Please remember that the Fireworks Festival is taking place in November so come prepared for the unpredictable British weather. We recommend you bring warm and waterproof clothing and sensible footwear.</p><p>For your safety and for the safety of others please do not bring the following into the Park:<br>fireworks, sparklers, pets, glass bottles, alcohol, flares, camping chairs</p>",
+                "rightCol":"<h2>SATURDAY 5 NOVEMBER</h2><p>Entry into the Park is permitted from 4pm and the site is open until 10:45pm. The German Bier Festival and Street Food Village will also be open from 4pm. The bonfire will be lit at 6:30pm.</p><p>Fireworks start at 8pm sharp, so please ensure to allow at least 30 minutes access time from the gates of the Park to your preferred standing point.</p><h2>ACCESS</h2><p>The most suitable and accessible viewing area is the family area at the bottom of the Park. There is a accessible viewing platform on the terrace, tickets are limited and on a first come first served basis. They include one access / accessible parking space in the Grove car park and one essential companion. Tickets can be booked at the point of buying Firework Festival Tickets.</p>"
+            }
+        }
+    },
+    {       
+        "name":"Terms and Conditions",
+        "slug":"terms",
+        "meta":{
+            "title":"Terms and Conditions | 5th November 2022",
+            "meta":"Terms and Conditions of Alexandra Palace Fireworks Festival 2022"
+        },
+        "content":{
+            "name":"TERMS & CONDITIONS",
+            "centeredParagraph":"<p>1. The purchase of this ticket by you from the authorised ticket agent See Tickets, entitles You to gain entry to the Fireworks Festival staged by Alexandra Park and Palace Charitable Trust  at the venue Alexandra Palace and Park advertised. Only customers holding a valid Ticket will be admitted to the Event. Your Ticket may be invalidated if any part of it is removed, altered or defaced.</p><p>2. This Ticket is issued subject to the terms and conditions contained herein, as well as those published by Ticket Agent on their respective websites. Purchase of any Ticket constitutes acceptance of these Terms and Conditions on Your behalf and on behalf of any person for whom you are purchasing Tickets. In the event of any inconsistency between these Terms and Conditions and those of the Venue or the Ticket Agent, these terms and conditions stated on this website shall prevail.</p><p>3. The Terms and Conditions are subject to change from time to time without notice and at our discretion. We will notify you of amendments to the Terms and Conditions by posting them to this website (www.fireworks.london).</p><p>4. Please check Tickets carefully as errors cannot always be rectified following purchase. Tickets are not issued on a sale or return basis and refunds will not be made on returned Tickets unless otherwise provided under the Terms and Conditions.</p><p>5. The Organiser is not responsible for any Ticket that is lost, stolen or destroyed. You are solely responsible for the safety of Your Ticket. It is not always possible to issue duplicate Tickets. If duplicate Tickets are issued, a reasonable and appropriate administration fee may be charged.</p><p>6. Tickets are non-refundable except if the event is cancelled. The Organiser will not be liable to you for failure to perform any obligation under these terms and conditions if the failure is caused by Force Majeure i.e any forces beyond the Organiser’s control. For the purposes of these terms and conditions, Force Majeure covers, without limitation, an act of God, war, insurrection, riot, civil disturbances, acts of terrorism (or the threat thereof), strike, fire, explosion, flood, royal mourning, national mourning, theft of essential equipment, malicious damage, lock out, weather (including but not limited to high winds), third party injunction, national defence requirements and/or acts or regulations of national or local governments.</p><p>7. Purchase or possession of a Ticket does not confer any rights (by implication or otherwise) on You to use, alter, copy, or otherwise deal with any of the symbols, trademarks, logos and/or intellectual property appearing on the Ticket.</p><p>8. Neither the Venue nor the Organiser nor the Ticket Agent shall have any further liability beyond the face value of the Ticket purchased plus the relevant per ticket booking fee.</p><p>9. In the event of a cancellation, postponement or Material Alteration of the Event (defined below) You will be entitled to a refund in accordance with the terms and conditions or refund policy of the authorised Ticket Agent from whom You purchased a Ticket. Where the cancellation takes place part-way through an Event, at the discretion of the Organiser, You may only be entitled to a partial refund of the face price Ticket value. Personal arrangements including travel, subsistence and accommodation in relation to the Event which have been arranged by You are made at Your own risk and neither the authorised Ticket Agent nor the Organiser will have any liability for any such loss of enjoyment or wasted expenditure. Material Alteration is a change which in our reasonable opinion makes the Event materially different to the Event which purchasers of the Ticket could reasonably expect. Changes to performance times, acts and performers/participants shall not be considered a Material Alteration and the Organiser will not be liable for such changes. A Material Alteration is judged by reference to the nature, form and billing of the Event. The Event is judged and valued by reference to the overall theme rather than any individual act, performer or participant scheduled to appear. No scheduled acts may be considered as headline acts, regardless of their relative fame or prominence in the billing. Hence cancellation by an artist will not entitle You to a refund, regardless of their position on the bill.</p><p>10. In the event that You are entitled to a refund, please refer to the terms and conditions of the authorised Ticket Agent from which You purchased Your Ticket for details of how to claim that refund. You may not be entitled to obtain a refund if You fail to follow the instructions provided within the notified time frames. Refunds will only be made to the person who purchased the Ticket(s).</p><p>11. It is Your responsibility to check that the Event has not been cancelled, rescheduled or made the subject of a Material Alteration. Information on such matters will be made available on behalf of the Organiser as soon as reasonably practicable on the Event website and/or at the Venue. Customers are advised that the website cannot always be updated immediately and that circumstances giving rise to cancellation, postponement or Material Alterations can sometimes arise at late notice or immediately prior to an Event.</p><p>12. Tickets will not be refunded once they have been used to gain entry to the Event, or where You are given the option to attend a postponed Event on an alternative date.</p><p>13. Tickets are personal revocable licenses and shall at all times remain the property of the Organiser and subject to these Terms and Conditions. You may not re-sell or transfer a Ticket for commercial gain. If a Ticket is re-sold, transferred or advertised for profit or commercial gain or used for competitions, promotions or hospitality packages by anyone other than the organiser, or an authorised sub-agent, it will be void and You will be refused entry to, or ejected from, the Venue without refund. Should You re-sell a Ticket to a third party you may find that the third party brings a legal claim against You for selling a Ticket which does not permit access to the Event. The organiser reserves the right to cancel any Ticket booking which it reasonably believes to have been made with a view to re-sell Tickets or where the Ticket has been purchased using fraudulent means, including credit card fraud.</p><p>14. Tickets may be restricted to a maximum number per person per credit card or per household. These restrictions will be notified to you by the Ticket Agent before you make your booking. The Organiser reserves the right to cancel Tickets purchased in excess of this number without prior notification to you of such cancellation.</p><p>15. This is at least in part an outdoor event and, as with all action sports and music events, performance is subject to the prevailing weather conditions. In the event that it is deemed unsafe for any scheduled display, event or activities to take place the Organiser may reschedule the Event or cancel it in its entirety. As per clause 8 above, if the Event is cancelled entirely, the Organiser shall refund the face value price of the Ticket. If part of the Event is cancelled, i.e. the firework display itself, the Organiser may refund some or all of the purchase price of the Firework Ticket in its absolute discretion, but shall be under no obligation to do so. In this instance the beer festival and Ice rink ticket will still be valid and non-refundable.</p><p>16. In the event that it is deemed unsafe for the scheduled display, event or activities to take place the Organiser may reschedule the Event or cancel it in its entirety. As per clause 8 above, if the Event is cancelled entirely, the Organiser shall refund the price of the Ticket to its face value. If part of the Event is cancelled, i.e. the firework displays itself, the Organiser may refund some or the entire purchase price of the Ticket in its absolute discretion, but shall be under no obligation to do so. In this instance the beer festival and Ice rink ticket will still be valid and non-refundable.</p><p>17. By attending the Event, you give Your express consent to Your actual or simulated likeness being included within any film, photograph, audio and/or audio-visual recording to be exploited in any and all media for any purpose at any time throughout the world, the copyright to which shall be owned by the organiser or its contractors without payment or compensation. If you attend an Event with Your child aged under 18 years you give the foregoing your express consent on their behalf. This includes filming by the police or security staff that may be carried out for the security of customers.</p><p>18. Security staff may ask to look inside Your bag. This is to ensure everyone’s safety. Please don’t be offended. We ask for your co-operation in this regard.</p><p>19. Please take care of your personal property at the Venue. Neither the Organiser nor the Venue can be held responsible for any personal property that is lost or damaged during the Event.</p><p>20. The following age restrictions apply and ID may be required to gain entry:<br/>20.1 Entrants to the site aged 15 and under must be accompanied by an adult aged 21 years and above.<br/>20.2. Entrants to the beer festival must be 18 years and above.</p><p>21. The Organiser reserves the right to remove persons from the Venue for any reason including, but not limited to, behaviour that is; likely to cause damage, annoyance, or harm to others, health and safety reasons, if the Event staff believe that You are under the influence of drugs or alcohol, if You fail to produce proof of identity or age, or if You refuse to comply with the Organiser’s security searches.</p><p>22. Please note that prolonged exposure to loud noise may cause damage to hearing. Please be aware that strobe lighting may be using during certain activities during the Event.</p><p>23. The Events operate licensed bars and you need to be over the age of 18 to purchase alcohol at the Event. Please be aware that our Event staff operate a challenge 25 policy and if, in their reasonable opinion, you look younger than 25 year of age you may be asked to provide ID. If you are unable to provide ID on request you will not be served alcohol at the Event.</p><p>24. You undertake to comply with any and all instructions given to you by the Organiser and/or all Venue staff at the Event. In particular You are required to comply with all safety advice, site signage and 'no smoking areas’. In accordance with Smoke-Free Regulations, certain areas of the Event are designated 'no smoking’. Normal statutory rules and regulations apply and should be observed at the Event. Failure to do so may result in ejection from the Venue.</p><p>25. You shall not be permitted to bring into the Venue or display or distribute (whether for free or not) at the Event any sponsorship, promotional or marketing materials.</p><p>26. To the extent permitted by law, personal information provided by You to the Organiser will be used for all purposes reasonably connected with the operations of the Event and the Organiser including (but not limited to): providing You with details of forthcoming connected events, offers and services; providing You with updates as to the latest concessions or any changes thereto and information concerning competitions and other promotional activity, supplying You with the goods that You request or in which the organiser reasonably believes You may be interested, conducting market research and establishing customer profiles, and transferring or disclosing the information provided to the Organiser’s professional advisors and such other parties as it considers necessary in the administration of its business. The organiser will not use or disclose Your personal information other than as set out in these terms and conditions without Your prior consent. You will be given the opportunity to unsubscribe from such marketing communications when You place Your order and You can unsubscribe from any email communications You receive from the Organiser by following the unsubscribe link.</p><p>27. Access to each designated area within the Venue is subject to capacity and the Organiser accepts no liability and will not offer any Ticket refunds if You are unable to access an area due to that area being at maximum capacity. You may be required to queue so please arrive early to avoid disappointment.</p><p>28. The Organiser takes the needs of customers who are disabled and those who have access requirements very seriously and actively encourages people of all abilities to attend the Event. Disabled tickets are limited and are charged at the standard Ticket price. Disabled tickets allow for one carer to accompany the Ticket holder. The disabled ticket provides access to the disabled viewing platform located on the south terrace. The disabled ticket also provides access to the Grove car park,. Access to the car park will be limited to 1500 pm-18:45. After 18:45 no vehicle will be allowed to leave the car park until 20:45 due to public safety concerns. If you have not purchased a disabled ticket the Organiser cannot guarantee that it will be able to address your needs fully. =. Only disabled ticket holders will be admitted onto the viewing platform due to capacity limitations and no exceptions will be made.</p><p>29. Official merchandise is usually only available inside the Venue. The organiser does not accept any responsibility for the sale of unofficial merchandise.</p><p>30. You agree that the Organiser, its servants or agents will not be liable for any loss, injury or damage to any person (including Yourself) or property however caused (including by the Organiser or its servants or agents): (a) in any circumstances where there is no breach of a legal duty of care owed by the Organiser or any of its servants or agents; (b) in circumstances where such loss or damage is not a reasonably foreseeable result of any such breach (save for death or personal injury as a result of a breach of a legal duty of care owed by the Organiser, its servants or agents); and/or (c) to the extent that any increase in any loss or damage results from the breach by You of any of these Terms and Conditions.</p><p>31. In the event that you believe you have a legitimate complaint that may give rise to a claim against the Organiser, you are required to notify the Organiser in writing of such complaint within 28 calendar days of the Event. If so notified, the Organiser undertakes to investigate and consider the nature and cause of the complaint.</p><p>32. For the purposes of these terms and conditions, Force Majeure means any cause beyond the Organiser’s control including, without limitation, an act of God, war, insurrection, riot, civil disturbances, acts of terrorism (or the threat thereof), fire, explosion, flood, royal mourning, national mourning, theft of essential equipment, malicious damage, strike, lock out, weather (including but not limited to high winds), third party injunction, national defence requirements and/or acts or regulations of national or local governments. The Organiser will not be liable to you for failure to perform any obligation under these terms and conditions to the extent that the failure is caused by Force Majeure.</p><p>33. You agree that the Organiser shall not be liable to You for any indirect or consequential costs, claims, actual or alleged losses howsoever arising out of or in connection with the Event and/or our obligations hereunder including, but not limited to, loss of profits, anticipated profits, savings, business or opportunity, or loss of publicity or loss of reputation, or opportunity to enhance reputation or loss of contract or other economic or consequential loss arising from the performance (or any failure to perform) these Terms and Conditions.</p><p>34. The Organiser will not have any liability to You whatsoever for loss or expenses incurred in connection with the Event or any cancellation of the Event, including, without limitation, costs of any personal travel, accommodation or hospitality arrangements made relating to the Event or the cancellation of the Event.</p><p>35. The Organiser shall not be liable for the acts or omissions of the operators of the Venues, for any personal injury suffered at the Venue (unless due to the act or omissions of the Organiser) or any loss, theft or damage to your property including but not limited to clothes at the Venue (unless due to the act or omissions of the Organiser).</p><p>36. To the fullest extent permissible in law, the Organiser shall be entitled to assign all and any of its rights and obligations under these Terms and Conditions, provided that your rights are not adversely affected.</p><p>37. If any provision of the Terms and Conditions is found to be invalid or unenforceable by a court, the invalid or unenforceable provision shall be severed or amended in such a manner as to render the rest of the provision(s) and remainder of the Terms and Conditions valid or enforceable.</p><p>38. If the Organiser delays or fails to enforce any of the Terms and Conditions it shall not mean that the Organiser has waived its right to do so.</p><p>39. Any person, other than the Organiser, who is not a party to the Terms and Conditions shall have no rights under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of the Terms and Conditions.</p><p>40. Nothing in the Terms and Conditions and no action taken by You or the Organiser under the Terms and Conditions shall create, or be deemed to create, a partnership, joint venture or establish a relationship of principal and agent or any other fiduciary relationship between You and the Organiser.</p><p>41. The Terms and Conditions constitute the entire agreement between the parties in connection with the subject matter of the Terms and Conditions and supersede any previous terms and conditions, agreement or arrangement between you and the Organiser relating to the subject matter of these terms and conditions.</p><p>42. Nothing in the Terms and Conditions shall purport to exclude liability for fraud or fraudulent misrepresentation.</p><p>43. The Terms and Conditions shall be governed by the laws of England and Wales and parties agree to submit to the exclusive jurisdiction of the Courts of England and Wales.Special terms and conditions:</p><p>44. Prohibited items:Alcohol<br/>Illegal substances<br/>anything that could reasonably considered for use as a weapon<br/>Nitrous Oxide and legal highs<br/>Food or drink apart from soft drinks or water in plastic bottles<br/>Excessive quantities of cigarettes (ie more than for personal consumption)<br/>Glass of any kind, including perfume and cologne bottles, beer bottles, jars or drinking vessels<br/>Portable laser equipment and pens<br/>Megaphones<br/>Large sound systems<br/>Air horns<br/>Spray cans<br/>Fireworks<br/>Sparklers<br/>Flares<br/>Animals<br/>Unofficial tabards or hi vis jackets<br/>Professional camera or video equipment<br/>Bicycles<br/>Any items confiscated will not be available for collection on exit from the festival and will be destroyed.</p><p>45. Alcohol cannot be brought into the festival site. It is illegal to attempt to buy alcohol if you are under 18 and it is illegal to buy alcohol for another person who is under 18.</p><p>46. Lost property will be collected during the event and held at the security office. When the event is over it will be disposed of with 7 days of the event.</p>"
+        }
+    }
+]

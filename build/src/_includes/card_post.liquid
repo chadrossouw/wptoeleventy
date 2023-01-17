@@ -1,0 +1,9 @@
+<a href="post/{{data.slug}}">
+  {% if data.image.thumbnail %}
+    <img src="{{data.image.thumb}}">
+  {% else %}
+    <img src="{{global.image.thumb}}">
+  {% endif %}
+  <h2>{{ data.title }}</h2>
+  <h3>{{ data.postDate | postDate }}</h3>
+</a>
